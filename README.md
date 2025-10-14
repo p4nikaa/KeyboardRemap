@@ -7,7 +7,6 @@ Obviously you can't use any remapped buttons for their original purpose. If you 
 
 I haven't tested this with any other version of blender. If it doesn't work for yours, don't use this.  
 
----
 # Controls
 Alt + L/R/U/D arrow keys snaps the 3D view to front, back, left, or right.  
 
